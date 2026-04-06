@@ -5,7 +5,7 @@
 ## 🧠 About me
 
 I'm a developer interested in **security, backend systems, and modern web development**.
-I like understanding how systems work in depth — and where they can break.
+I like understanding how systems work in depth - and where they can break.
 
 My bachelor's thesis focused on **smart contract security and vulnerability analysis**, where I worked with AI tools to detect and fix vulnerabilities.
 
