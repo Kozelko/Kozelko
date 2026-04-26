@@ -34,14 +34,12 @@ Right now, I'm more focused on building real-world applications and expanding in
 * Web development
 * Software architecture
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kozelko&theme=dark&hide_border=true" />
-</p>
 
 ## 📫 Contact
 
 Feel free to check out my projects or reach out — I'm always open to collaborations, startup ideas, or interesting problems to solve.
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kozelko&theme=dark&hide_border=true" />
+</p>
 ---
