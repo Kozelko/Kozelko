@@ -37,11 +37,6 @@ Right now, I'm more focused on building real-world applications and expanding in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kozelko&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kozelko&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kozelko&theme=default&hide_border=true" />
 </p>
 
