@@ -37,7 +37,7 @@ Right now, I'm more focused on building real-world applications and expanding in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kozelko&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kozelko&theme=dark&hide_border=true" />
 </p>
 
 ## 📫 Contact
