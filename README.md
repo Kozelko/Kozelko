@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peter
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Kozelko&color=blue&style=flat)
 
 🎓 I'm currently studying at FIIT STU (Slovak University of Technology), pursuing an engineering degree with a focus on **Cybersecurity**.
 
@@ -37,12 +37,12 @@ Right now, I'm more focused on building real-world applications and expanding in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kozelko&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kozelko&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kozelko&theme=default&hide_border=true" />
 </p>
 
 ## 📫 Contact
