@@ -8,29 +8,38 @@ I bridge the gap between **software security** and **modern product engineering*
 
 ## 🌐 Production & Live Projects
 
-* 🛒 **https://mobitrade.sk**
-  * Modern e-commerce platform for lighting solutions.
-  * Stack: **Next.js 14 (App Router)**, **TypeScript**, **PostgreSQL / Prisma**, **GoPay**, **Packeta (Z-BOX)**, and automated **Pohoda ERP** sync.
-* 👟 **https://novastopa.sk**
-  * Custom e-commerce platform with automated ETL catalog pipelines (2,000+ items), **PostgreSQL**, **Stripe**, and **Playwright E2E** testing.
-* 🎼 **https://najnoty.sk**
-  * Sheet music & musical literature e-commerce solution with custom catalog search and digital order processing.
-* 🌿 **https://lunae.sk**
-  * Bespoke e-commerce & brand presentation with custom responsive UI and payment integration.
+* 💡 **https://mobitrade.sk**
+  * Official B2B/B2C e-commerce platform for lighting systems & SKOFF distributor.
+  * Stack: **Next.js 14 (App Router)**, **TypeScript**, **PostgreSQL / Prisma**, **Tailwind CSS**.
+  * Integrated **GoPay** gateway (card, Google Pay), **Packeta API (Z-BOX picker)**, and automated **Pohoda ERP** XML order & stock synchronization.
+
+* 🎼 **https://najnoty.sk** *(Hudobniny AMADEO)*
+  * Custom e-commerce platform and management system for sheet music and instruments.
+  * **Storefront:** **Next.js 16**, **React 19**, **Tailwind CSS v4**, **Framer Motion**, and **Playwright E2E** test suite.
+  * **Backend & Admin:** **Express 5**, **Prisma ORM**, **PostgreSQL**, rate-limiting, and dedicated custom Admin CMS for complex hierarchical instrument/publisher taxonomies.
+  * Automated **Python ETL pipelines** for legacy catalog scraping, data cleaning, and asset syncing.
+
+* 🐍 **https://lunae.sk**
+  * Specialized terraristics & exotic pets e-commerce platform.
+  * **Frontend:** **Next.js 16**, **React 19**, **TypeScript**, **Tailwind CSS v4**, **TanStack Query**, and
+  **multilingual localization (i18n)**.
+  * **Backend:** Containerized **Node.js / Express**, **Prisma ORM**, and **PostgreSQL** in **Docker**.
+
+* 🎸 **https://novastopa.sk**
+  * Official band presentation and event booking portal for folk-rock band Nová Stopa.
+  * Stack: **React 19**, **Vite**, **Tailwind CSS**, automated **Sharp** image optimization pipeline, and cookieless, privacy-friendly **Umami** analytics.
 
 ---
 
 ## 🚀 What I'm Building & Working On
 
 * 🤖 **AI Multi-Agent Legal Platform (NOMOS)**
-      * Multi-agent legal document processing and contract analysis.
-      * Built with **LangGraph**, **FastAPI**, **RAG (pgvector / Supabase)**, and **Vue 3 / TypeScript**.
+  * Multi-agent legal document processing and contract analysis.
+  * Built with **LangGraph**, **FastAPI**, **RAG (pgvector / Supabase)**, and **Vue 3 / TypeScript**.
 * 🛒 **Production E-Commerce Architectures**
-      * High-conversion, resilient e-commerce platforms using **Next.js 14 (App Router)**, **TypeScript**, and
-      **Tailwind CSS**.
-      * Integrated **PostgreSQL / Prisma**, payment gateways (**GoPay**, **Stripe**), shipping APIs (**Packeta /
-      Z-BOX**), and automated **Pohoda ERP** sync.
-      * Zero-downtime reliability verified via automated **Playwright E2E** test suites.
+  * High-conversion, resilient e-commerce platforms using **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS**.
+  * Integrated **PostgreSQL / Prisma**, payment gateways (**GoPay**, **Stripe**), shipping APIs (**Packeta / Z-BOX**), and automated **Pohoda ERP** sync.
+  * Zero-downtime reliability verified via automated **Playwright E2E** test suites.
 
 
    ---
