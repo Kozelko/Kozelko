@@ -9,16 +9,14 @@ I bridge the gap between **software security** and **modern product engineering*
 ## 🌐 Production & Live Projects
 
 * 🛒 **https://mobitrade.sk**
-      * Modern e-commerce platform for lighting solutions & SKOFF distributor.
-      * Stack: **Next.js 14 (App Router)**, **TypeScript**, **PostgreSQL / Prisma**, **GoPay**, **Packeta (Z-BOX)**,
-      and automated **Pohoda ERP** sync.
+  * Modern e-commerce platform for lighting solutions.
+  * Stack: **Next.js 14 (App Router)**, **TypeScript**, **PostgreSQL / Prisma**, **GoPay**, **Packeta (Z-BOX)**, and automated **Pohoda ERP** sync.
 * 👟 **https://novastopa.sk**
-      * Custom e-commerce platform with automated ETL catalog pipelines (2,000+ items), **PostgreSQL**, **Stripe**,
-      and **Playwright E2E** testing.
+  * Custom e-commerce platform with automated ETL catalog pipelines (2,000+ items), **PostgreSQL**, **Stripe**, and **Playwright E2E** testing.
 * 🎼 **https://najnoty.sk**
-      * Sheet music & musical literature e-commerce solution with custom catalog search and digital order processing.
+  * Sheet music & musical literature e-commerce solution with custom catalog search and digital order processing.
 * 🌿 **https://lunae.sk**
-      * Bespoke e-commerce & brand presentation with custom responsive UI and payment integration.
+  * Bespoke e-commerce & brand presentation with custom responsive UI and payment integration.
 
 ---
 
