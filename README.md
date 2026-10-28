@@ -1,44 +1,68 @@
-# 👋 Hi, I'm Peter
+# 👋 Hi, I'm Peter Brandajský
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kozelko&color=blue&style=flat)
+🎓 **Ing. Information Security Student** at FIIT STU (Slovak University of Technology)
+🛡️ Focus: **Cybersecurity, AI Agentic Systems & High-Reliability Fullstack**
 
-🎓 I'm currently studying at FIIT STU (Slovak University of Technology), pursuing an engineering degree with a focus on **Cybersecurity**.
+I bridge the gap between **software security** and **modern product engineering** — building robust systems,
+    dissecting vulnerabilities, and deploying real-world AI applications.
+---
 
-## 🧠 About me
+   ## 🌐 Production & Live Projects
 
-I'm a developer interested in **security, backend systems, and modern web development**.
-I like understanding how systems work in depth - and where they can break.
+   * 🛒 **https://mobitrade.sk**
+      * Modern e-commerce platform for lighting solutions & SKOFF distributor.
+      * Stack: **Next.js 14 (App Router)**, **TypeScript**, **PostgreSQL / Prisma**, **GoPay**, **Packeta (Z-BOX)**,
+      and automated **Pohoda ERP** sync.
+    * 👟 **https://novastopa.sk**
+      * Custom e-commerce platform with automated ETL catalog pipelines (2,000+ items), **PostgreSQL**, **Stripe**,
+      and **Playwright E2E** testing.
+    * 🎼 **https://najnoty.sk**
+      * Sheet music & musical literature e-commerce solution with custom catalog search and digital order processing.
+    * 🌿 **https://lunae.sk**
+      * Bespoke e-commerce & brand presentation with custom responsive UI and payment integration.
 
-My bachelor's thesis focused on **smart contract security and vulnerability analysis**, where I worked with AI tools to detect and fix vulnerabilities.
+---
 
-Right now, I'm more focused on building real-world applications and expanding into **fullstack development and AI systems**.
+## 🚀 What I'm Building & Working On
 
-## 🚀 What I'm currently working on
-
-* 🛒 Rebuilding an **e-commerce project** using **Next.js** and modern web technologies
-* 🤖 Working on a **startup project** using LLMs
-  * Using **LangGraph**, **RAG**, **FastAPI**, and **Vue**
-* 🌐 Learning fullstack development through *The Odin Project*
-
-## 🛠️ Tech stack
-
-* **Languages:** Python, JavaScript
-* **Frontend:** Next.js, Vue, React
-* **Backend:** FastAPI, REST APIs, Node.js
-* **Tools & Technologies:** Docker, Git, Linux
-
-## 📌 Interests
-
-* Cybersecurity
-* AI & LLMs
-* Web development
-* Software architecture
+   * 🤖 **AI Multi-Agent Legal Platform (NOMOS)**
+      * Multi-agent legal document processing and contract analysis.
+      * Built with **LangGraph**, **FastAPI**, **RAG (pgvector / Supabase)**, and **Vue 3 / TypeScript**.
+    * 🛒 **Production E-Commerce Architectures**
+      * High-conversion, resilient e-commerce platforms using **Next.js 14 (App Router)**, **TypeScript**, and
+      **Tailwind CSS**.
+      * Integrated **PostgreSQL / Prisma**, payment gateways (**GoPay**, **Stripe**), shipping APIs (**Packeta /
+      Z-BOX**), and automated **Pohoda ERP** sync.
+      * Zero-downtime reliability verified via automated **Playwright E2E** test suites.
 
 
-## 📫 Contact
+   ---
 
-Feel free to check out my projects or reach out - I'm always open to collaborations, startup ideas, or interesting problems to solve.
+   ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kozelko&theme=tokyonight&hide_border=true" />
-</p>
+   * **Languages:** TypeScript, JavaScript, Python, SQL, Solidity, C/C++
+    * **Frontend:** Next.js (App Router), React, Vue 3, Tailwind CSS
+    * **Backend & APIs:** FastAPI, Node.js, Express, REST APIs
+    * **Databases & Vector Search:** PostgreSQL, Supabase (pgvector), Redis, Prisma ORM
+    * **AI & Agents:** LangGraph, RAG pipelines, Prompt Engineering, OpenAI / Claude APIs
+    * **Security & Infrastructure:** Linux, Docker, Playwright (E2E), Varnish, Nginx, Prometheus, Grafana
+
+   ---
+
+   ## 📌 Core Focus Areas
+
+   * **Cybersecurity & Vulnerability Research:** Smart contract security, web application auditing, threat modeling.
+    * **Agentic Workflows & RAG:** Complex graph-based multi-agent architectures for domain-specific automation.
+    * **System Resilience:** High-load caching, strict data validation, defensive backend architecture.
+
+   ---
+
+   ## 📫 Connect with me
+
+   * 💼 LinkedIn: [linkedin.com/in/peter-brandajský](https://linkedin.com/in/peter-brandajsk%C3%BD-436340208/)
+    * 💻 GitHub: [@Kozelko](https://github.com/Kozelko)
+    * ✉️ Email: [kozelamv@gmail.com](mailto:kozelamv@gmail.com)
+
+   <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kozelko&theme=tokyonight&hide_border=true" />
+    </p>
