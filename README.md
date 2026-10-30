@@ -3,7 +3,6 @@
 🎓 **Ing. Information Security Student** at FIIT STU (Slovak University of Technology)
 🛡️ Focus: **Cybersecurity, AI Agentic Systems & High-Reliability Fullstack**
 
-I bridge the gap between **software security** and **modern product engineering** — building robust systems, dissecting vulnerabilities, and deploying real-world AI applications.
 ---
 
 ## 🌐 Production & Live Projects
