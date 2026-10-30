@@ -65,7 +65,6 @@
 ## 📫 Connect with me
 
 * 💼 LinkedIn: [linkedin.com/in/peter-brandajský](https://linkedin.com/in/peter-brandajsk%C3%BD-436340208/)
-* 💻 GitHub: [@Kozelko](https://github.com/Kozelko)
 * ✉️ Email: [kozelamv@gmail.com](mailto:kozelamv@gmail.com)
 
 <p align="center">
