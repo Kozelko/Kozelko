@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Peter Brandajský
 
 🎓 **Ing. Information Security Student** at FIIT STU (Slovak University of Technology)
+
 🛡️ Focus: **Cybersecurity, AI Agentic Systems & High-Reliability Fullstack**
 
 ---
